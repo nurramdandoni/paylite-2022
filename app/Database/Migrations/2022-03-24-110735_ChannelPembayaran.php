@@ -59,6 +59,10 @@ class ChannelPembayaran extends Migration
                 'type'              => 'VARCHAR', // kode_xendit
                 'constraint'        => '255'
             ],
+            'get_profit'   => [
+                'type'              => 'DOUBLE', // keuntungan per trx untuk paylite dari penambahan biaya transaksi
+                'constraint'        => [11,2]
+            ],
             'created_at'            => [
                 'type'              => 'DATETIME',
                 'null'              => TRUE
