@@ -1,0 +1,1 @@
+Seeder dimulai sesuai urutan Migration Supaya Tidak Error
