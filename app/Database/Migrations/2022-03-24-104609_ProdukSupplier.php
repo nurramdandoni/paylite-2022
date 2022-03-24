@@ -4,68 +4,24 @@ namespace App\Database\Migrations;
 
 use CodeIgniter\Database\Migration;
 
-class Biodata extends Migration
+class ProdukSupplier extends Migration
 {
     public function up()
     {
         $this->forge->addField([
-            'biodata_id'             => [
+            'produk_supplier_id'           => [
                 'type'              => 'INT',
                 'constraint'        => 11,
                 'unsigned'          => TRUE, // tidak boleh negatif
                 'auto_increment'    => TRUE
             ],
-            'email'          => [
+            'nama_supplier'         => [
                 'type'              => 'VARCHAR',
                 'constraint'        => '255'
             ],
-            'user_level'            => [
-                'type'              => 'ENUM',
-                'constraint'        => ['User','Admin','Agen','P-Admin','S-Admin']
-            ],
-            'nama_lengkap'          => [
+            'contact_supplier'         => [
                 'type'              => 'VARCHAR',
                 'constraint'        => '255'
-            ],
-            'foto'                  => [
-                'type'              => 'VARCHAR',
-                'constraint'        => '255'
-            ],
-            'jenis_kelamin'            => [
-                'type'              => 'ENUM',
-                'constraint'        => ['Laki-laki','Perempuan']
-            ],
-            'jenis_identitas'       => [
-                'type'              => 'ENUM',
-                'constraint'        => ['KTP','Passport']
-            ],
-            'nomor_identitas'       => [
-                'type'              => 'VARCHAR',
-                'constraint'        => '30'
-            ],
-            'foto_identitas'        => [
-                'type'              => 'VARCHAR',
-                'constraint'        => '30'
-            ],
-            'nomor_telpon'          => [
-                'type'              => 'VARCHAR',
-                'constraint'        => '30'
-            ],
-            'nama_bank'             => [
-                'type'              => 'VARCHAR',
-                'constraint'        => '255'
-            ],
-            'nama_pemilik_rek_bank' => [
-                'type'              => 'VARCHAR',
-                'constraint'        => '255'
-            ],
-            'nomor_rek_bank'        => [
-                'type'              => 'VARCHAR',
-                'constraint'        => '255'
-            ],
-            'kewarganegaraan'      => [
-                'type'              => 'ENUM',
-                'constraint'        => ['WNI','WNA']
             ],
             'provinsi_id'           => [
                 'type'              => 'INT',
@@ -104,17 +60,16 @@ class Biodata extends Migration
                 'null'              => TRUE
             ],
         ]);
-        $this->forge->addPrimaryKey('biodata_id');
-        $this->forge->addForeignKey('email', 'user_main', 'username');
+        $this->forge->addPrimaryKey('produk_supplier_id');
         $this->forge->addForeignKey('provinsi_id', 'provinsi', 'provinsi_id');
         $this->forge->addForeignKey('kabupaten_id', 'kabupaten', 'kabupaten_id');
         $this->forge->addForeignKey('kecamatan_id', 'kecamatan', 'kecamatan_id');
         $this->forge->addForeignKey('desa_id', 'desa', 'desa_id');
-        $this->forge->createTable('biodata');
+        $this->forge->createTable('produk_supplier');
     }
 
     public function down()
     {
-        $this->forge->dropTable('biodata');
+        $this->forge->dropTable('produk_supplier');
     }
 }
