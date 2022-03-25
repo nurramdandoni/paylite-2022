@@ -35,6 +35,10 @@ class ProdukRetail extends Migration
                 'type'              => 'VARCHAR',
                 'constraint'        => '255'
             ],
+            'ukuran_kemasan'        => [
+                'type'              => 'VARCHAR',
+                'constraint'        => '255'
+            ],
             'satuan_produk'         => [
                 'type'              => 'VARCHAR',
                 'constraint'        => '255'
