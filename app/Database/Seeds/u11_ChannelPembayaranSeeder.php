@@ -197,7 +197,8 @@ class u11_ChannelPembayaranSeederSeeder extends Seeder
                 'use_payment_gateway'   => 'xendit',
                 'get_profit_fee'        => 0.5,
                 'get_profit_percent'    => '',
-                'status_channel'        => 'NonAktif'                'created_at'            => Time::now(),
+                'status_channel'        => 'NonAktif',                
+                'created_at'            => Time::now(),
                 'update_at'             => Time::now()
             ],
             [
@@ -217,7 +218,8 @@ class u11_ChannelPembayaranSeederSeeder extends Seeder
                 'use_payment_gateway'   => 'xendit',
                 'get_profit_fee'        => 0.5,
                 'get_profit_percent'    => '',
-                'status_channel'        => 'NonAktif'                'created_at'            => Time::now(),
+                'status_channel'        => 'NonAktif',
+                'created_at'            => Time::now(),
                 'update_at'             => Time::now()
             ],
             [
@@ -237,7 +239,8 @@ class u11_ChannelPembayaranSeederSeeder extends Seeder
                 'use_payment_gateway'   => 'xendit',
                 'get_profit_fee'        => 0.5,
                 'get_profit_percent'    => '',
-                'status_channel'        => 'NonAktif'                'created_at'            => Time::now(),
+                'status_channel'        => 'NonAktif',
+                'created_at'            => Time::now(),
                 'update_at'             => Time::now()
             ],
             // QRCODE
@@ -258,7 +261,8 @@ class u11_ChannelPembayaranSeederSeeder extends Seeder
                 'use_payment_gateway'   => 'xendit',
                 'get_profit_fee'        => 0.3,
                 'get_profit_percent'    => '',
-                'status_channel'        => 'NonAktif'                'created_at'            => Time::now(),
+                'status_channel'        => 'NonAktif',
+                'created_at'            => Time::now(),
                 'update_at'             => Time::now()
             ],
             // Retail Outlet
