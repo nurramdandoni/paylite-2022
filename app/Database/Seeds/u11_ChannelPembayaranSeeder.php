@@ -28,6 +28,7 @@ class u11_ChannelPembayaranSeederSeeder extends Seeder
                 'use_payment_gateway'   => 'xendit',
                 'get_profit_fee'        => '',
                 'get_profit_percent'    => 1500,
+                'status_channel'        => 'NonAktif',
                 'created_at'            => Time::now(),
                 'update_at'             => Time::now()
             ],
@@ -48,6 +49,7 @@ class u11_ChannelPembayaranSeederSeeder extends Seeder
                 'use_payment_gateway'   => 'xendit',
                 'get_profit_fee'        => '',
                 'get_profit_percent'    => 1500,
+                'status_channel'        => 'NonAktif',
                 'created_at'            => Time::now(),
                 'update_at'             => Time::now()
             ],
@@ -68,6 +70,7 @@ class u11_ChannelPembayaranSeederSeeder extends Seeder
                 'use_payment_gateway'   => 'xendit',
                 'get_profit_fee'        => '',
                 'get_profit_percent'    => 1500,
+                'status_channel'        => 'NonAktif',
                 'created_at'            => Time::now(),
                 'update_at'             => Time::now()
             ],
@@ -88,6 +91,7 @@ class u11_ChannelPembayaranSeederSeeder extends Seeder
                 'use_payment_gateway'   => 'xendit',
                 'get_profit_fee'        => '',
                 'get_profit_percent'    => 1500,
+                'status_channel'        => 'NonAktif',
                 'created_at'            => Time::now(),
                 'update_at'             => Time::now()
             ],
@@ -108,6 +112,7 @@ class u11_ChannelPembayaranSeederSeeder extends Seeder
                 'use_payment_gateway'   => 'xendit',
                 'get_profit_fee'        => '',
                 'get_profit_percent'    => 1500,
+                'status_channel'        => 'NonAktif',
                 'created_at'            => Time::now(),
                 'update_at'             => Time::now()
             ],
@@ -128,6 +133,7 @@ class u11_ChannelPembayaranSeederSeeder extends Seeder
                 'use_payment_gateway'   => 'xendit',
                 'get_profit_fee'        => '',
                 'get_profit_percent'    => 1500,
+                'status_channel'        => 'NonAktif',
                 'created_at'            => Time::now(),
                 'update_at'             => Time::now()
             ],
@@ -148,6 +154,7 @@ class u11_ChannelPembayaranSeederSeeder extends Seeder
                 'use_payment_gateway'   => 'xendit',
                 'get_profit_fee'        => '',
                 'get_profit_percent'    => 1500,
+                'status_channel'        => 'NonAktif',
                 'created_at'            => Time::now(),
                 'update_at'             => Time::now()
             ],
@@ -168,6 +175,7 @@ class u11_ChannelPembayaranSeederSeeder extends Seeder
                 'use_payment_gateway'   => 'xendit',
                 'get_profit_fee'        => '',
                 'get_profit_percent'    => 1500,
+                'status_channel'        => 'NonAktif',
                 'created_at'            => Time::now(),
                 'update_at'             => Time::now()
             ],
@@ -189,7 +197,7 @@ class u11_ChannelPembayaranSeederSeeder extends Seeder
                 'use_payment_gateway'   => 'xendit',
                 'get_profit_fee'        => 0.5,
                 'get_profit_percent'    => '',
-                'created_at'            => Time::now(),
+                'status_channel'        => 'NonAktif'                'created_at'            => Time::now(),
                 'update_at'             => Time::now()
             ],
             [
@@ -209,7 +217,7 @@ class u11_ChannelPembayaranSeederSeeder extends Seeder
                 'use_payment_gateway'   => 'xendit',
                 'get_profit_fee'        => 0.5,
                 'get_profit_percent'    => '',
-                'created_at'            => Time::now(),
+                'status_channel'        => 'NonAktif'                'created_at'            => Time::now(),
                 'update_at'             => Time::now()
             ],
             [
@@ -229,7 +237,7 @@ class u11_ChannelPembayaranSeederSeeder extends Seeder
                 'use_payment_gateway'   => 'xendit',
                 'get_profit_fee'        => 0.5,
                 'get_profit_percent'    => '',
-                'created_at'            => Time::now(),
+                'status_channel'        => 'NonAktif'                'created_at'            => Time::now(),
                 'update_at'             => Time::now()
             ],
             // QRCODE
@@ -250,7 +258,7 @@ class u11_ChannelPembayaranSeederSeeder extends Seeder
                 'use_payment_gateway'   => 'xendit',
                 'get_profit_fee'        => 0.3,
                 'get_profit_percent'    => '',
-                'created_at'            => Time::now(),
+                'status_channel'        => 'NonAktif'                'created_at'            => Time::now(),
                 'update_at'             => Time::now()
             ],
             // Retail Outlet
@@ -271,6 +279,7 @@ class u11_ChannelPembayaranSeederSeeder extends Seeder
                 'use_payment_gateway'   => 'xendit',
                 'get_profit_fee'        => '',
                 'get_profit_percent'    => 1000,
+                'status_channel'        => 'NonAktif',
                 'created_at'            => Time::now(),
                 'update_at'             => Time::now()
             ],
@@ -291,6 +300,7 @@ class u11_ChannelPembayaranSeederSeeder extends Seeder
                 'use_payment_gateway'   => 'xendit',
                 'get_profit_fee'        => '',
                 'get_profit_percent'    => 1000,
+                'status_channel'        => 'NonAktif',
                 'created_at'            => Time::now(),
                 'update_at'             => Time::now()
             ],
@@ -312,6 +322,7 @@ class u11_ChannelPembayaranSeederSeeder extends Seeder
                 'use_payment_gateway'   => 'xendit',
                 'get_profit_fee'        => '',
                 'get_profit_percent'    => 1000,
+                'status_channel'        => 'NonAktif',
                 'created_at'            => Time::now(),
                 'update_at'             => Time::now()
             ],
@@ -332,6 +343,7 @@ class u11_ChannelPembayaranSeederSeeder extends Seeder
                 'use_payment_gateway'   => 'xendit',
                 'get_profit_fee'        => '',
                 'get_profit_percent'    => 1000,
+                'status_channel'        => 'NonAktif',
                 'created_at'            => Time::now(),
                 'update_at'             => Time::now()
             ],
@@ -352,6 +364,7 @@ class u11_ChannelPembayaranSeederSeeder extends Seeder
                 'use_payment_gateway'   => 'xendit',
                 'get_profit_fee'        => '',
                 'get_profit_percent'    => 1000,
+                'status_channel'        => 'NonAktif',
                 'created_at'            => Time::now(),
                 'update_at'             => Time::now()
             ],
@@ -372,6 +385,7 @@ class u11_ChannelPembayaranSeederSeeder extends Seeder
                 'use_payment_gateway'   => 'xendit',
                 'get_profit_fee'        => '',
                 'get_profit_percent'    => 1000,
+                'status_channel'        => 'NonAktif',
                 'created_at'            => Time::now(),
                 'update_at'             => Time::now()
             ],
@@ -392,6 +406,7 @@ class u11_ChannelPembayaranSeederSeeder extends Seeder
                 'use_payment_gateway'   => 'xendit',
                 'get_profit_fee'        => '',
                 'get_profit_percent'    => 1000,
+                'status_channel'        => 'NonAktif',
                 'created_at'            => Time::now(),
                 'update_at'             => Time::now()
             ],
@@ -412,6 +427,7 @@ class u11_ChannelPembayaranSeederSeeder extends Seeder
                 'use_payment_gateway'   => 'xendit',
                 'get_profit_fee'        => '',
                 'get_profit_percent'    => 1000,
+                'status_channel'        => 'NonAktif',
                 'created_at'            => Time::now(),
                 'update_at'             => Time::now()
             ],
@@ -432,6 +448,7 @@ class u11_ChannelPembayaranSeederSeeder extends Seeder
                 'use_payment_gateway'   => 'xendit',
                 'get_profit_fee'        => '',
                 'get_profit_percent'    => 1000,
+                'status_channel'        => 'NonAktif',
                 'created_at'            => Time::now(),
                 'update_at'             => Time::now()
             ],
@@ -452,6 +469,7 @@ class u11_ChannelPembayaranSeederSeeder extends Seeder
                 'use_payment_gateway'   => 'xendit',
                 'get_profit_fee'        => '',
                 'get_profit_percent'    => 1000,
+                'status_channel'        => 'NonAktif',
                 'created_at'            => Time::now(),
                 'update_at'             => Time::now()
             ],
@@ -472,6 +490,7 @@ class u11_ChannelPembayaranSeederSeeder extends Seeder
                 'use_payment_gateway'   => 'xendit',
                 'get_profit_fee'        => '',
                 'get_profit_percent'    => 1000,
+                'status_channel'        => 'NonAktif',
                 'created_at'            => Time::now(),
                 'update_at'             => Time::now()
             ],
@@ -492,6 +511,7 @@ class u11_ChannelPembayaranSeederSeeder extends Seeder
                 'use_payment_gateway'   => 'xendit',
                 'get_profit_fee'        => '',
                 'get_profit_percent'    => 1000,
+                'status_channel'        => 'NonAktif',
                 'created_at'            => Time::now(),
                 'update_at'             => Time::now()
             ],
@@ -512,6 +532,7 @@ class u11_ChannelPembayaranSeederSeeder extends Seeder
                 'use_payment_gateway'   => 'xendit',
                 'get_profit_fee'        => '',
                 'get_profit_percent'    => 1000,
+                'status_channel'        => 'NonAktif',
                 'created_at'            => Time::now(),
                 'update_at'             => Time::now()
             ],

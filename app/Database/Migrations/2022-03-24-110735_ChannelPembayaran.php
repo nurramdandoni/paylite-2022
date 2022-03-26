@@ -75,6 +75,10 @@ class ChannelPembayaran extends Migration
                 'type'              => 'DOUBLE', // keuntungan per trx untuk paylite dari penambahan biaya transaksi
                 'constraint'        => [11,2]
             ],
+            'status_channel'   => [
+                'type'              => 'ENUM', // keuntungan per trx untuk paylite dari penambahan biaya transaksi
+                'constraint'        => ['NonAktif','Aktif']
+            ],
             'created_at'            => [
                 'type'              => 'DATETIME',
                 'null'              => TRUE
