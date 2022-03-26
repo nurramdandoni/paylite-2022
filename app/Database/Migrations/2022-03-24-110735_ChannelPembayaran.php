@@ -15,8 +15,16 @@ class ChannelPembayaran extends Migration
                 'unsigned'          => TRUE, // tidak boleh negatif
                 'auto_increment'    => TRUE
             ],
+            'type'                  => [
+                'type'              => 'ENUM', // Kategori Pembayaran
+                'constraint'        => ['VIRTUAL ACCOUNT','E-WALLET','QRIS','RETAIL OUTLET','DISBURSEMENT']
+            ],
+            'type_transaksi'        => [
+                'type'              => 'ENUM', // terima bembayaran/ request pembayaran (disbursement)
+                'constraint'        => ['Terima','Kirim']
+            ],
             'nama_channel'          => [
-                'type'              => 'VARCHAR', // va,qris,indomart,dll
+                'type'              => 'VARCHAR', // va,qris,indomart (OTC),dll
                 'constraint'        => '255'
             ],
             'kode_xendit'           => [
@@ -59,7 +67,11 @@ class ChannelPembayaran extends Migration
                 'type'              => 'VARCHAR', // kode_xendit
                 'constraint'        => '255'
             ],
-            'get_profit'   => [
+            'get_profit_fee'   => [
+                'type'              => 'DOUBLE', // keuntungan per trx untuk paylite dari penambahan biaya transaksi
+                'constraint'        => [11,2]
+            ],
+            'get_profit_percent'   => [
                 'type'              => 'DOUBLE', // keuntungan per trx untuk paylite dari penambahan biaya transaksi
                 'constraint'        => [11,2]
             ],
