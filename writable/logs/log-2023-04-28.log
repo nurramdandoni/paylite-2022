@@ -1,0 +1,5 @@
+ERROR - 2023-04-28 23:11:22 --> Can't create table `paylite2023`.`kabupaten` (errno: 150 "Foreign key constraint is incorrectly formed")
+ERROR - 2023-04-28 23:18:14 --> Can't create table `paylite2023`.`kecamatan` (errno: 150 "Foreign key constraint is incorrectly formed")
+ERROR - 2023-04-28 23:18:47 --> Can't create table `paylite2023`.`kecamatan` (errno: 150 "Foreign key constraint is incorrectly formed")
+ERROR - 2023-04-28 23:19:19 --> Can't create table `paylite2023`.`desa` (errno: 150 "Foreign key constraint is incorrectly formed")
+ERROR - 2023-04-28 23:22:37 --> Can't create table `paylite2023`.`pembayaran_sewa_sistem` (errno: 150 "Foreign key constraint is incorrectly formed")
