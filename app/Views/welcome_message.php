@@ -1235,7 +1235,7 @@
                   <a href=""><i class="bi bi-linkedin"></i></a>
                 </div>
                 <h4>Muhammad Faqih</h4>
-                <span>CTO</span>
+                <span>Chief Technology Officer</span>
               </div>
             </div>
           </div><!-- End Team Member -->
