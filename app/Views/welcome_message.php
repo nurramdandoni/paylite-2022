@@ -53,8 +53,8 @@
 
       <a href="index.html" class="logo d-flex align-items-center scrollto me-auto me-lg-0">
         <!-- Uncomment the line below if you also wish to use an image logo -->
-        <!-- <img src="assets/img/logo.png" alt=""> -->
-        <h1>Paylite<span>.</span></h1>
+        <img src="assets/img/about.png" alt="Paylite Logo">
+        <!-- <h1>Paylite<span>.</span></h1> -->
       </a>
 
       <nav id="navbar" class="navbar">
