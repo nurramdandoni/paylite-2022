@@ -18,10 +18,12 @@ class Kecamatan extends Migration
             'kabupaten_id'           => [
                 'type'              => 'INT',
                 'constraint'        => 11,
+                'unsigned'          => TRUE,
             ],
             'provinsi_id'           => [
                 'type'              => 'INT',
                 'constraint'        => 11,
+                'unsigned'          => TRUE,
             ],
             'kecamatan_code'         => [
                 'type'              => 'VARCHAR',

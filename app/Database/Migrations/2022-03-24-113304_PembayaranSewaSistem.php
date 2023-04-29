@@ -17,15 +17,18 @@ class PembayaranSewaSistem extends Migration
             ],
             'global_trx_pay_id'          => [
                 'type'              => 'BIGINT',
-                'constraint'        => 20
+                'constraint'        => 20,
+                'unsigned'          => TRUE,
             ],
             'user_main_id'          => [
                 'type'              => 'INT',
-                'constraint'        => 11
+                'constraint'        => 11,
+                'unsigned'          => TRUE,
             ],
             'sistem_id'             => [
                 'type'              => 'INT',
-                'constraint'        => 11
+                'constraint'        => 11,
+                'unsigned'          => TRUE,
             ],
             'gross_amount'          => [
                 'type'              => 'DOUBLE',

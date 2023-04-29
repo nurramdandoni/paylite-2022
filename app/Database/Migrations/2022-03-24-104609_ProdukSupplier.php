@@ -25,19 +25,23 @@ class ProdukSupplier extends Migration
             ],
             'provinsi_id'           => [
                 'type'              => 'INT',
-                'constraint'        => 11
+                'constraint'        => 11,
+                'unsigned'          => TRUE,
             ],
             'kabupaten_id'          => [
                 'type'              => 'INT',
-                'constraint'        => 11
+                'constraint'        => 11,
+                'unsigned'          => TRUE,
             ],
             'kecamatan_id'          => [
                 'type'              => 'INT',
-                'constraint'        => 11
+                'constraint'        => 11,
+                'unsigned'          => TRUE,
             ],
             'desa_id'               => [
                 'type'              => 'INT',
-                'constraint'        => 11
+                'constraint'        => 11,
+                'unsigned'          => TRUE,
             ],
             'kode_pos'              => [
                 'type'              => 'INT',

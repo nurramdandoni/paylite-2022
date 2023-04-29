@@ -18,6 +18,7 @@ class Kabupaten extends Migration
             'provinsi_id'           => [
                 'type'              => 'INT',
                 'constraint'        => 11,
+                'unsigned'          => TRUE,
             ],
             'kabupaten_code'         => [
                 'type'              => 'VARCHAR',

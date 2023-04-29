@@ -18,14 +18,17 @@ class Desa extends Migration
             'kecamatan_id'           => [
                 'type'              => 'INT',
                 'constraint'        => 11,
+                'unsigned'          => TRUE,
             ],
             'kabupaten_id'           => [
                 'type'              => 'INT',
                 'constraint'        => 11,
+                'unsigned'          => TRUE,
             ],
             'provinsi_id'           => [
                 'type'              => 'INT',
                 'constraint'        => 11,
+                'unsigned'          => TRUE,
             ],
             'desa_code'         => [
                 'type'              => 'VARCHAR',

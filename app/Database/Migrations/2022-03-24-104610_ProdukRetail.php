@@ -17,7 +17,8 @@ class ProdukRetail extends Migration
             ],
             'kategori_id'         => [
                 'type'              => 'INT',
-                'constraint'        => 11
+                'constraint'        => 11,
+                'unsigned'          => TRUE,
             ],
             'kode_barcode'         => [
                 'type'              => 'VARCHAR',
