@@ -128,12 +128,12 @@
 
   <section id="hero-animated" class="hero-animated d-flex align-items-center">
     <div class="container d-flex flex-column justify-content-center align-items-center text-center position-relative" data-aos="zoom-out">
-      <img src="assets/img/hero-carousel/hero-carousel-3.svg" class="img-fluid animated">
+      <img src="assets/img/hero-carousel/hero-carousel-4.png" width="400">
       <h2>Selamat Datang di <span>Paylite</span></h2>
       <p>Integrasi Sistem dan Pembayaran anda dengan Mudah dan Praktis</p>
       <div class="d-flex">
         <a href="#about" class="btn-get-started scrollto">Ayo Mulai!</a>
-        <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span>Lihat Video</span></a>
+        <a href="https://www.youtube.com/watch?v=S5ahgh5HwEA" class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span>Lihat Video</span></a>
       </div>
     </div>
   </section>
@@ -1234,7 +1234,7 @@
                   <a href=""><i class="bi bi-instagram"></i></a>
                   <a href=""><i class="bi bi-linkedin"></i></a>
                 </div>
-                <h4>Maulana Iqbal</h4>
+                <h4>Muhammad Faqih</h4>
                 <span>CTO</span>
               </div>
             </div>
