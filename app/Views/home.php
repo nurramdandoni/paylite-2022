@@ -1108,7 +1108,7 @@
                   <!-- <a href=""><i class="bi bi-twitter"></i></a> -->
                   <a target="_blank" href="https://facebook.com/nurlisviantiaan"><i class="bi bi-facebook"></i></a>
                   <a target="_blank" href="https://www.instagram.com/aannurlis/"><i class="bi bi-instagram"></i></a>
-                  <!-- <a target="_blank" href=""><i class="bi bi-linkedin"></i></a> -->
+                  <a target="_blank" href="https://www.linkedin.com/in/aan-nurlisvianti-083735274/"><i class="bi bi-linkedin"></i></a>
                 </div>
                 <h4>Aan Nurlisvianti</h4>
                 <span>Product Manager</span>
