@@ -206,7 +206,7 @@
           <div class="col-lg-8 col-md-6 content d-flex flex-column justify-content-center order-last order-md-first">
             <h3>Dukungan Penuh Layanan dan Konsultasi Layanan</h3>
             <p>Anda Memiliki Banyak pertanyaan dan bantuan dalam Bisnis anda, Hubungi Kami Untuk Dapat Membantu Memberikan Solusi dari permasalahan Anda.</p>
-            <a class="cta-btn align-self-start" href="#">Hubungi Sekarang!</a>
+            <a target="_blank" class="cta-btn align-self-start" href="https://api.whatsapp.com/send/?phone=62895330802566&text=Halo+Paylite+Service&type=phone_number&app_absent=0">Hubungi Sekarang!</a>
           </div>
 
           <div class="col-lg-4 col-md-6 order-first order-md-last d-flex align-items-center">
@@ -468,7 +468,7 @@
                 <div class="icon">
                   <i class="bi bi-activity"></i>
                 </div>
-                <a href="#" class="stretched-link">
+                <a href="/integrations" class="stretched-link">
                   <h3>Layanan Bantuan Integrasi</h3>
                 </a>
                 <p>Membantu Integrasi Website Anda dengan Layana Pembayaran/ Payment Gateway</p>
@@ -485,7 +485,7 @@
                 <div class="icon">
                   <i class="bi bi-broadcast"></i>
                 </div>
-                <a href="#" class="stretched-link">
+                <a href="/websites" class="stretched-link">
                   <h3>Layanan Website</h3>
                 </a>
                 <p>Membantu Pembuatan Website Company Profile/ MockUp</p>
@@ -502,7 +502,7 @@
                 <div class="icon">
                   <i class="bi bi-easel"></i>
                 </div>
-                <a href="#" class="stretched-link">
+                <a href="/database" class="stretched-link">
                   <h3>Database Administrator</h3>
                 </a>
                 <p>Membantu Membuat perancangan Database System</p>
@@ -703,7 +703,7 @@
               </ul>
 
               <div class="text-center mt-auto">
-                <a href="#" class="buy-btn">Aktifkan!</a>
+                <a href="/activated/edu" class="buy-btn">Aktifkan!</a>
               </div>
 
             </div>
@@ -727,7 +727,7 @@
               </ul>
 
               <div class="text-center mt-auto">
-                <a href="#" class="buy-btn">Aktifkan!</a>
+                <a href="/activated/fin" class="buy-btn">Aktifkan!</a>
               </div>
 
             </div>
@@ -753,7 +753,7 @@
               </ul>
 
               <div class="text-center mt-auto">
-                <a href="#" class="buy-btn">Aktifkan!</a>
+                <a href="/activated/retail" class="buy-btn">Aktifkan!</a>
               </div>
 
             </div>
@@ -780,7 +780,7 @@
               </ul>
 
               <div class="text-center mt-auto">
-                <a href="#" class="buy-btn">Aktifkan!</a>
+                <a href="/activated/kios" class="buy-btn">Aktifkan!</a>
               </div>
 
             </div>
