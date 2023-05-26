@@ -1116,6 +1116,60 @@
             </div>
           </div><!-- End Team Member -->
 
+          <div class="col-xl-4 col-md-6 d-flex" data-aos="zoom-in" data-aos-delay="400">
+            <div class="team-member">
+              <div class="member-img">
+                <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <div class="social">
+                  <!-- <a href=""><i class="bi bi-twitter"></i></a> -->
+                  <!-- <a target="_blank" href="https://facebook.com/"><i class="bi bi-facebook"></i></a> -->
+                  <a target="_blank" href="https://www.instagram.com/yolaivonnie/"><i class="bi bi-instagram"></i></a>
+                  <a target="_blank" href="https://www.linkedin.com/in/yolaivonnie/"><i class="bi bi-linkedin"></i></a>
+                </div>
+                <h4>Yola Ivonnie</h4>
+                <span>UI/UX Designer</span>
+              </div>
+            </div>
+          </div><!-- End Team Member -->
+
+          <div class="col-xl-4 col-md-6 d-flex" data-aos="zoom-in" data-aos-delay="400">
+            <div class="team-member">
+              <div class="member-img">
+                <img src="assets/img/team/team-5.jpg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <div class="social">
+                  <!-- <a href=""><i class="bi bi-twitter"></i></a> -->
+                  <!-- <a target="_blank" href="https://facebook.com/"><i class="bi bi-facebook"></i></a>
+                  <a target="_blank" href="https://www.instagram.com/"><i class="bi bi-instagram"></i></a> -->
+                  <a target="_blank" href="https://www.linkedin.com/in/"><i class="bi bi-linkedin"></i></a>
+                </div>
+                <h4>Ahmad Rivaldy</h4>
+                <span>BackEnd Engineer</span>
+              </div>
+            </div>
+          </div><!-- End Team Member -->
+
+          <div class="col-xl-4 col-md-6 d-flex" data-aos="zoom-in" data-aos-delay="400">
+            <div class="team-member">
+              <div class="member-img">
+                <img src="assets/img/team/team-6.jpg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <div class="social">
+                  <!-- <a href=""><i class="bi bi-twitter"></i></a> -->
+                  <!-- <a target="_blank" href="https://facebook.com/"><i class="bi bi-facebook"></i></a>  -->
+                  <a target="_blank" href="https://www.instagram.com/andrinug.roho/"><i class="bi bi-instagram"></i></a>
+                  <a target="_blank" href="https://www.linkedin.com/in/andri-nugroho-81a834193/"><i class="bi bi-linkedin"></i></a>
+                </div>
+                <h4>Andri Nugroho</h4>
+                <span>FrontEnd Engineer</span>
+              </div>
+            </div>
+          </div><!-- End Team Member -->
+
         </div>
 
       </div>
