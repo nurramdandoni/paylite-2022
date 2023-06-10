@@ -3,18 +3,18 @@
 
           <!-- <li class="dropdown"><a href="#"><span>Home</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
-              <li><a href="index.html" class="active">Home 1 - index.html</a></li>
+              <li><a href="home" class="active">Home 1 - home</a></li>
               <li><a href="index-2.html">Home 2 - index-2.html</a></li>
               <li><a href="index-3.html">Home 3 - index-3.html</a></li>
               <li><a href="index-4.html">Home 4 - index-4.html</a></li>
             </ul>
           </li> -->
 
-          <li><a class="nav-link scrollto" href="#">Home</a></li>
-          <li><a class="nav-link scrollto" href="index.html#about">Tentang</a></li>
-          <li><a class="nav-link scrollto" href="index.html#services">Layanan</a></li>
-          <li><a class="nav-link scrollto" href="index.html#pricing">Harga Produk</a></li>
-          <li><a class="nav-link scrollto" href="index.html#team">Tim Paylite</a></li>
+          <li><a class="nav-link scrollto" href="home#">Home</a></li>
+          <li><a class="nav-link scrollto" href="home#about">Tentang</a></li>
+          <li><a class="nav-link scrollto" href="home#services">Layanan</a></li>
+          <li><a class="nav-link scrollto" href="home#pricing">Harga Produk</a></li>
+          <li><a class="nav-link scrollto" href="home#team">Tim Paylite</a></li>
           <!-- <li><a href="blog.html">Blog</a></li>
           <li class="dropdown megamenu"><a href="#"><span>Mega Menu</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
@@ -57,7 +57,7 @@
               <li><a href="#">Drop Down 4</a></li>
             </ul>
           </li> -->
-          <li><a class="nav-link scrollto" href="index.html#contact">Kontak</a></li>
+          <li><a class="nav-link scrollto" href="home#contact">Kontak</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle d-none"></i>
       </nav><!-- .navbar -->

@@ -51,7 +51,7 @@
   <header id="header" class="header fixed-top" data-scrollto-offset="0">
     <div class="container-fluid d-flex align-items-center justify-content-between">
 
-      <a href="index.html" class="logo d-flex align-items-center scrollto me-auto me-lg-0">
+      <a href="home" class="logo d-flex align-items-center scrollto me-auto me-lg-0">
         <!-- Uncomment the line below if you also wish to use an image logo -->
         <img src="assets/img/about.png" alt="Paylite Logo">
         <!-- <h1>Paylite<span>.</span></h1> -->
@@ -59,7 +59,7 @@
 
       <?= $this->include("layout/menu"); ?>
 
-      <a class="btn-getstarted scrollto" href="index.html#about">Ayo Mulai!</a>
+      <a class="btn-getstarted scrollto" href="home#about">Ayo Mulai!</a>
 
     </div>
   </header><!-- End Header -->

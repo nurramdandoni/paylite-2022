@@ -1,0 +1,40 @@
+CRITICAL - 2023-06-10 00:36:57 --> Invalid file: policy.php
+#0 C:\xampp\htdocs\paylite-2022\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('policy.php')
+#1 C:\xampp\htdocs\paylite-2022\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('policy', Array, true)
+#2 C:\xampp\htdocs\paylite-2022\app\Controllers\Home.php(13): view('policy')
+#3 C:\xampp\htdocs\paylite-2022\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Home->policy()
+#4 C:\xampp\htdocs\paylite-2022\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\paylite-2022\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\paylite-2022\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\paylite-2022\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-06-10 00:37:05 --> Invalid file: policy.php
+#0 C:\xampp\htdocs\paylite-2022\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('policy.php')
+#1 C:\xampp\htdocs\paylite-2022\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('policy', Array, true)
+#2 C:\xampp\htdocs\paylite-2022\app\Controllers\Home.php(13): view('policy')
+#3 C:\xampp\htdocs\paylite-2022\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Home->policy()
+#4 C:\xampp\htdocs\paylite-2022\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\paylite-2022\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\paylite-2022\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\paylite-2022\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-06-10 00:39:01 --> Invalid file: policy.php
+#0 C:\xampp\htdocs\paylite-2022\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('policy.php')
+#1 C:\xampp\htdocs\paylite-2022\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('policy', Array, true)
+#2 C:\xampp\htdocs\paylite-2022\app\Controllers\Home.php(13): view('policy')
+#3 C:\xampp\htdocs\paylite-2022\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Home->policy()
+#4 C:\xampp\htdocs\paylite-2022\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\paylite-2022\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\paylite-2022\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\paylite-2022\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-06-10 00:39:29 --> Invalid file: policy.php
+#0 C:\xampp\htdocs\paylite-2022\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('policy.php')
+#1 C:\xampp\htdocs\paylite-2022\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('policy', Array, true)
+#2 C:\xampp\htdocs\paylite-2022\app\Controllers\Home.php(13): view('policy')
+#3 C:\xampp\htdocs\paylite-2022\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Home->policy()
+#4 C:\xampp\htdocs\paylite-2022\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\paylite-2022\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\paylite-2022\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\paylite-2022\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}

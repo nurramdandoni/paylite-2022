@@ -20,21 +20,21 @@
       <div class="col-lg-2 col-md-6 footer-links">
         <h4>Useful Links</h4>
         <ul>
-          <li><i class="bi bi-chevron-right"></i> <a href="#">Home</a></li>
-          <li><i class="bi bi-chevron-right"></i> <a href="index.html#about">Tentang</a></li>
-          <li><i class="bi bi-chevron-right"></i> <a href="index.html#services">Layanan</a></li>
-          <li><i class="bi bi-chevron-right"></i> <a href="index.html#pricing">Harga Produk</a></li>
-          <li><i class="bi bi-chevron-right"></i> <a href="index.html#team">Tim Paylite</a></li>
+          <li><i class="bi bi-chevron-right"></i> <a href="home#">Home</a></li>
+          <li><i class="bi bi-chevron-right"></i> <a href="home#about">Tentang</a></li>
+          <li><i class="bi bi-chevron-right"></i> <a href="home#services">Layanan</a></li>
+          <li><i class="bi bi-chevron-right"></i> <a href="home#pricing">Harga Produk</a></li>
+          <li><i class="bi bi-chevron-right"></i> <a href="home#team">Tim Paylite</a></li>
         </ul>
       </div>
 
       <div class="col-lg-3 col-md-6 footer-links">
         <h4>Layanan</h4>
         <ul>
-          <li><i class="bi bi-chevron-right"></i> <a href="index.html#services">Desain Website</a></li>
-          <li><i class="bi bi-chevron-right"></i> <a href="index.html#services">Pengembangan Web</a></li>
-          <li><i class="bi bi-chevron-right"></i> <a href="index.html#services">Database Adminitrator</a></li>
-          <li><i class="bi bi-chevron-right"></i> <a href="index.html#services">Integrasi Layanan</a></li>
+          <li><i class="bi bi-chevron-right"></i> <a href="home#services">Desain Website</a></li>
+          <li><i class="bi bi-chevron-right"></i> <a href="home#services">Pengembangan Web</a></li>
+          <li><i class="bi bi-chevron-right"></i> <a href="home#services">Database Adminitrator</a></li>
+          <li><i class="bi bi-chevron-right"></i> <a href="home#services">Integrasi Layanan</a></li>
         </ul>
       </div>
 
