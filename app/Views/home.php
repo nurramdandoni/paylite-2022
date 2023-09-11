@@ -688,7 +688,7 @@
 
               <div class="pricing-header">
                 <h3>Paylite Edu</h3>
-                <h4><sup>Rp</sup>52.000<span> / Bulan</span></h4>
+                <h4><sup>Rp</sup>65.000*<span> / Bulan</span></h4>
               </div>
 
               <ul>
@@ -699,6 +699,7 @@
                 <li><i class="bi bi-dot"></i> <span>Data Arsip</span></li>
                 <li><i class="bi bi-dot"></i> <span>Tanda Tangan Canvas</span></li>
                 <li class="na"><i class="bi bi-x"></i> <span>Terima Pembayaran</span></li>
+                <li><span>*Per Modul Aplikasi</span></li>
                 <!-- <li class="na"><i class="bi bi-x"></i> <span>Massa ultricies mi quis hendrerit</span></li> -->
               </ul>
 
